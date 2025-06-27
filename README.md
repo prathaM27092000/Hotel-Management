@@ -1,4 +1,4 @@
-
+![Hotel Management Dashboard](https://github.com/prathaM27092000/Hotel-Management/blob/main/Dashboard%20img1.png "Hotel Hospitality Management ")
 ## Project Overview
 This project provides a comprehensive analysis of ITV Grands' hotel performance across multiple cities in India. Using MySQL for data analysis and Power BI for visualization, key insights were generated to help ITV Grands regain their market share and optimize their business strategies in the luxury and business hotel categories.
 
