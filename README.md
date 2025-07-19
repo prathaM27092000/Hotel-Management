@@ -31,3 +31,11 @@ This project demonstrates the power of combining SQL-based data analysis with Po
 
 
 
+
+## 👋 Contact Author
+---
+**Prathamesh Gujja**  
+📍 Pune, India  
+📧 prathameshgujja10@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja) | 🌐 Visit [My Portfolio](https://pratham27092000.github.io/Portfolio/) | [GitHub](https://github.com/prathaM27092000)
+[Hotel Management Dashboard](https://github.com/prathaM27092000/Hotel-Management/blob/main/Dashboard%20img1.png "Hotel Hospitality Management ")
